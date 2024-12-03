@@ -1,7 +1,5 @@
 # METFLIX
 
-# Portal de Séries
-
 ## Descrição do Projeto
 
 O **Portal de Séries** é uma plataforma web desenvolvida como parte do trabalho de Desenvolvimento de Interfaces Web (DIW). Este projeto utiliza a API **The Movie DB** para fornecer uma experiência dinâmica e interativa, permitindo aos usuários explorar, pesquisar e descobrir séries e filmes com informações sempre atualizadas.
