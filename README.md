@@ -24,4 +24,4 @@ O **Portal de Séries** é uma plataforma web desenvolvida como parte do trabalh
 
 1. Clone o repositório em sua máquina local:
    ```bash
-   git clone https://github.com/leduardomdias/portal-de-series.git
+   git clone https://github.com/leduardomdias/METFLIX---TIAW.git
